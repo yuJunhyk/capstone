@@ -1,4 +1,4 @@
-# cpastone
+# capstone
 캡스톤디자인 2 진행
 
 ## 협업 매뉴얼
